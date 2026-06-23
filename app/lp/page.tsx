@@ -128,7 +128,7 @@ export default function LandingPage() {
         <div style={{ position: 'relative', zIndex: 1, maxWidth: 720, margin: '0 auto' }}>
           {/* Logo */}
           <div style={{ marginBottom: '2.5rem' }}>
-            <img src="/logo.png" alt="Momentum Labs" style={{ height: 30, width: 'auto' }} />
+            <img src="/logo.png" alt="Momentum Labs" style={{ height: 56, width: 'auto' }} />
           </div>
 
           {/* Badge */}
